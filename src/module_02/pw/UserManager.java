@@ -1,4 +1,4 @@
-package module_02.practise_work;
+package module_02.pw;
 import java.util.ArrayList;
 import java.util.List;
 

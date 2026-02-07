@@ -1,4 +1,4 @@
-package module_02.home_work;
+package module_02.hw;
 
 
 //1

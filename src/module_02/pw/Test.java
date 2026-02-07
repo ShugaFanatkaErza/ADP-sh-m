@@ -1,4 +1,4 @@
-package module_02.practise_work;
+package module_02.pw;
 
 public class Test {
     public static void main(String[] args) {

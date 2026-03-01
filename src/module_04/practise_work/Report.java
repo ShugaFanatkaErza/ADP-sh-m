@@ -1,3 +1,4 @@
+package module_04.practise_work;
 public class Report implements Document {
 
     @Override

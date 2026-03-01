@@ -1,3 +1,4 @@
+package module_04.practise_work;
 import java.util.Scanner;
 
 public class Main {

@@ -1,4 +1,4 @@
-package transport;
+package module_04.home_work;
 
 import java.util.Scanner;
 

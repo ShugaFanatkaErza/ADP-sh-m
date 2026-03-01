@@ -10,17 +10,17 @@ public class TextReportBuilder implements IReportBuilder {
 
     @Override
     public void setHeader(String header) {
-        report.setHeader("HEADER: " + header);
+        report.setHeader("header: " + header);
     }
 
     @Override
     public void setContent(String content) {
-        report.setContent("CONTENT: " + content);
+        report.setContent("content: " + content);
     }
 
     @Override
     public void setFooter(String footer) {
-        report.setFooter("FOOTER: " + footer);
+        report.setFooter("footer: " + footer);
     }
 
     @Override

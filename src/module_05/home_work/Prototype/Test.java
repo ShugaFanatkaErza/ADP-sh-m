@@ -4,7 +4,7 @@ public class Test {
     public static void main(String[] args) {
 
         Order originalOrder = new Order();
-        originalOrder.addProduct(new Product("Laptop", 1000, 1));
+        originalOrder.addProduct(new Product("PC", 1000, 1));
         originalOrder.setDeliveryCost(20);
         originalOrder.setDiscount(new Discount("New Year", 10));
         originalOrder.setPaymentMethod("Credit Card");
